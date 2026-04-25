@@ -2,4 +2,4 @@
 
 上过为数不多干货满满的安全课，且上且珍惜。
 
-详情参考我的Github： [Computer-System-Security-Course](https://github.com/LeGai325/Computer-System-Security-Course)   
+ctf题解详情参考我的Github： [Computer-System-Security-Course](https://github.com/LeGai325/Computer-System-Security-Course)   
